@@ -4,5 +4,6 @@
 </ruby>
 は william と
 <ruby>
-  申します <rp>(</rp><rt>もうします</rt><rp>)</rp>
+  申 <rp>(</rp><rt>もう</rt><rp>)</rp>
 </ruby>
+します.
