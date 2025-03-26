@@ -1,5 +1,4 @@
 ## Hi there 👋
-## 自己紹介 🎌
 <ruby>
   私 <rp>(</rp><rt>わたし</rt><rp>)</rp>
 </ruby>
